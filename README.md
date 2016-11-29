@@ -6,16 +6,15 @@ Við höfum  valið leikinn Overwatch til að tala um í þessu hópverkefni.
 Í þessu verkefni munum við  svara nokrun spurningum um hann
 
 Hvernig leikur er þetta?
-
-Um leikinn
 Overwatch er liða skiftur multiplayer leikur sem er spilaður í fyrstu persónu.
 
 Af hvaða fyrirtæki og hvenær var hann gerður ?
-
 Hann var gefin út af fyrirtækinu Blizzard Entertainment og kom út 24 mai 2016
 Þeir hafa Leikin bannaðan fyrir 12 og eldri, og við mundum segja að leikurinn væri  fyrir alla sem eru 12 og eldri.
 
-Overwatch er leikur sem er mjög virkur frá byrjun og til dags 
+hvernig hefur leikurinn þróast? og Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn?
+Overwatch er leikur sem er mjög virkur frá byrjun og til dags og er uppfærður milli tvegja vikkna til mánaðalega.
+
 
 Overwatch skiftir leikmenn í tvö lið og í hverju lið eru 6 leikmenn
 Og hver leikmaður velur 1 af 23 persónur til að spila og hver persóna er einstök
